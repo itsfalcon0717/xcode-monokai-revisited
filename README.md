@@ -16,8 +16,9 @@ Preview screenshots include the beautiful [Input](http://input.fontbureau.com/) 
 1. Clone the repository
 
 ```bash
-git clone git@github.com:halcyonmobile/xcode-monokai-revisited.git
+git clone https://github.com/itsfalcon0717/xcode-monokai-revisited.git
 ```
+
 
 2. Run the install script inside the cloned repository.
 
